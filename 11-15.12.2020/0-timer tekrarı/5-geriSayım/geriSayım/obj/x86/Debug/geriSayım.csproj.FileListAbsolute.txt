@@ -1,0 +1,7 @@
+C:\Users\vilda\OneDrive\Desktop\geriSayım\geriSayım\bin\Debug\geriSayım.exe
+C:\Users\vilda\OneDrive\Desktop\geriSayım\geriSayım\bin\Debug\geriSayım.pdb
+C:\Users\vilda\OneDrive\Desktop\geriSayım\geriSayım\obj\x86\Debug\geriSayım.Form1.resources
+C:\Users\vilda\OneDrive\Desktop\geriSayım\geriSayım\obj\x86\Debug\geriSayım.Properties.Resources.resources
+C:\Users\vilda\OneDrive\Desktop\geriSayım\geriSayım\obj\x86\Debug\geriSayım.csproj.GenerateResource.Cache
+C:\Users\vilda\OneDrive\Desktop\geriSayım\geriSayım\obj\x86\Debug\geriSayım.exe
+C:\Users\vilda\OneDrive\Desktop\geriSayım\geriSayım\obj\x86\Debug\geriSayım.pdb

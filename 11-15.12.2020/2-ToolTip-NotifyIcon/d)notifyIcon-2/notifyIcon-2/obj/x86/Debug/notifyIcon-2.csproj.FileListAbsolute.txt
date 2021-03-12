@@ -1,0 +1,14 @@
+C:\Users\vilda\OneDrive\Desktop\notifyIcon-2\notifyIcon-2\obj\x86\Debug\notifyIcon_2.Form1.resources
+C:\Users\vilda\OneDrive\Desktop\notifyIcon-2\notifyIcon-2\obj\x86\Debug\notifyIcon_2.Properties.Resources.resources
+C:\Users\vilda\OneDrive\Desktop\notifyIcon-2\notifyIcon-2\obj\x86\Debug\notifyIcon-2.csproj.GenerateResource.Cache
+C:\Users\vilda\OneDrive\Desktop\notifyIcon-2\notifyIcon-2\bin\Debug\notifyIcon-2.exe
+C:\Users\vilda\OneDrive\Desktop\notifyIcon-2\notifyIcon-2\bin\Debug\notifyIcon-2.pdb
+C:\Users\vilda\OneDrive\Desktop\notifyIcon-2\notifyIcon-2\obj\x86\Debug\notifyIcon-2.exe
+C:\Users\vilda\OneDrive\Desktop\notifyIcon-2\notifyIcon-2\obj\x86\Debug\notifyIcon-2.pdb
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\11-15.12.2020\2-ToolTip-NotifyIcon\notifyIcon-2\notifyIcon-2\obj\x86\Debug\notifyIcon-2.exe
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\11-15.12.2020\2-ToolTip-NotifyIcon\notifyIcon-2\notifyIcon-2\obj\x86\Debug\notifyIcon-2.pdb
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\11-15.12.2020\2-ToolTip-NotifyIcon\notifyIcon-2\notifyIcon-2\bin\Debug\notifyIcon-2.exe
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\11-15.12.2020\2-ToolTip-NotifyIcon\notifyIcon-2\notifyIcon-2\bin\Debug\notifyIcon-2.pdb
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\11-15.12.2020\2-ToolTip-NotifyIcon\notifyIcon-2\notifyIcon-2\obj\x86\Debug\notifyIcon_2.Form1.resources
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\11-15.12.2020\2-ToolTip-NotifyIcon\notifyIcon-2\notifyIcon-2\obj\x86\Debug\notifyIcon_2.Properties.Resources.resources
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\11-15.12.2020\2-ToolTip-NotifyIcon\notifyIcon-2\notifyIcon-2\obj\x86\Debug\notifyIcon-2.csproj.GenerateResource.Cache

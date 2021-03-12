@@ -1,0 +1,7 @@
+C:\Users\vilda\AppData\Local\Temporary Projects\parolaMaksesi\bin\Debug\parolaMaksesi.exe
+C:\Users\vilda\AppData\Local\Temporary Projects\parolaMaksesi\bin\Debug\parolaMaksesi.pdb
+C:\Users\vilda\AppData\Local\Temporary Projects\parolaMaksesi\obj\x86\Debug\parolaMaksesi.Form1.resources
+C:\Users\vilda\AppData\Local\Temporary Projects\parolaMaksesi\obj\x86\Debug\parolaMaksesi.Properties.Resources.resources
+C:\Users\vilda\AppData\Local\Temporary Projects\parolaMaksesi\obj\x86\Debug\parolaMaksesi.csproj.GenerateResource.Cache
+C:\Users\vilda\AppData\Local\Temporary Projects\parolaMaksesi\obj\x86\Debug\parolaMaksesi.exe
+C:\Users\vilda\AppData\Local\Temporary Projects\parolaMaksesi\obj\x86\Debug\parolaMaksesi.pdb

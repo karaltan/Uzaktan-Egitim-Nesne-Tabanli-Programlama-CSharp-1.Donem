@@ -1,0 +1,16 @@
+C:\Users\vildan\Desktop\splashScreenim\splashScreenim\bin\Debug\splashScreenim.exe
+C:\Users\vildan\Desktop\splashScreenim\splashScreenim\bin\Debug\splashScreenim.pdb
+C:\Users\vildan\Desktop\splashScreenim\splashScreenim\obj\x86\Debug\splashScreenim.Form1.resources
+C:\Users\vildan\Desktop\splashScreenim\splashScreenim\obj\x86\Debug\splashScreenim.Properties.Resources.resources
+C:\Users\vildan\Desktop\splashScreenim\splashScreenim\obj\x86\Debug\splashScreenim.csproj.GenerateResource.Cache
+C:\Users\vildan\Desktop\splashScreenim\splashScreenim\obj\x86\Debug\splashScreenim.exe
+C:\Users\vildan\Desktop\splashScreenim\splashScreenim\obj\x86\Debug\splashScreenim.pdb
+C:\Users\vildan\Desktop\splashScreenim\splashScreenim\obj\x86\Debug\splashScreenim.anaForm.resources
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\11-15.12.2020\0-timer tekrarı\4-SplashScreen-Timer\splashScreenim\splashScreenim\obj\x86\Debug\splashScreenim.exe
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\11-15.12.2020\0-timer tekrarı\4-SplashScreen-Timer\splashScreenim\splashScreenim\obj\x86\Debug\splashScreenim.pdb
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\11-15.12.2020\0-timer tekrarı\4-SplashScreen-Timer\splashScreenim\splashScreenim\bin\Debug\splashScreenim.exe
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\11-15.12.2020\0-timer tekrarı\4-SplashScreen-Timer\splashScreenim\splashScreenim\bin\Debug\splashScreenim.pdb
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\11-15.12.2020\0-timer tekrarı\4-SplashScreen-Timer\splashScreenim\splashScreenim\obj\x86\Debug\splashScreenim.anaForm.resources
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\11-15.12.2020\0-timer tekrarı\4-SplashScreen-Timer\splashScreenim\splashScreenim\obj\x86\Debug\splashScreenim.Form1.resources
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\11-15.12.2020\0-timer tekrarı\4-SplashScreen-Timer\splashScreenim\splashScreenim\obj\x86\Debug\splashScreenim.Properties.Resources.resources
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\11-15.12.2020\0-timer tekrarı\4-SplashScreen-Timer\splashScreenim\splashScreenim\obj\x86\Debug\splashScreenim.csproj.GenerateResource.Cache

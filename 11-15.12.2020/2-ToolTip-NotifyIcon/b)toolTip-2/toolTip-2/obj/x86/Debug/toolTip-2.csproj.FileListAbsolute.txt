@@ -1,0 +1,21 @@
+C:\Users\vilda\AppData\Local\Temporary Projects\toolTip-2\obj\x86\Debug\toolTip_2.Form1.resources
+C:\Users\vilda\AppData\Local\Temporary Projects\toolTip-2\obj\x86\Debug\toolTip_2.Properties.Resources.resources
+C:\Users\vilda\AppData\Local\Temporary Projects\toolTip-2\obj\x86\Debug\toolTip-2.csproj.GenerateResource.Cache
+C:\Users\vilda\AppData\Local\Temporary Projects\toolTip-2\bin\Debug\toolTip-2.exe
+C:\Users\vilda\AppData\Local\Temporary Projects\toolTip-2\bin\Debug\toolTip-2.pdb
+C:\Users\vilda\AppData\Local\Temporary Projects\toolTip-2\obj\x86\Debug\toolTip-2.exe
+C:\Users\vilda\AppData\Local\Temporary Projects\toolTip-2\obj\x86\Debug\toolTip-2.pdb
+C:\Users\vilda\OneDrive\Desktop\toolTip-2\toolTip-2\obj\x86\Debug\toolTip-2.exe
+C:\Users\vilda\OneDrive\Desktop\toolTip-2\toolTip-2\obj\x86\Debug\toolTip-2.pdb
+C:\Users\vilda\OneDrive\Desktop\toolTip-2\toolTip-2\bin\Debug\toolTip-2.exe
+C:\Users\vilda\OneDrive\Desktop\toolTip-2\toolTip-2\bin\Debug\toolTip-2.pdb
+C:\Users\vilda\OneDrive\Desktop\toolTip-2\toolTip-2\obj\x86\Debug\toolTip_2.Form1.resources
+C:\Users\vilda\OneDrive\Desktop\toolTip-2\toolTip-2\obj\x86\Debug\toolTip_2.Properties.Resources.resources
+C:\Users\vilda\OneDrive\Desktop\toolTip-2\toolTip-2\obj\x86\Debug\toolTip-2.csproj.GenerateResource.Cache
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\11-15.12.2020\2-ToolTip-NotifyIcon\toolTip-2\toolTip-2\obj\x86\Debug\toolTip-2.exe
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\11-15.12.2020\2-ToolTip-NotifyIcon\toolTip-2\toolTip-2\obj\x86\Debug\toolTip-2.pdb
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\11-15.12.2020\2-ToolTip-NotifyIcon\toolTip-2\toolTip-2\bin\Debug\toolTip-2.exe
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\11-15.12.2020\2-ToolTip-NotifyIcon\toolTip-2\toolTip-2\bin\Debug\toolTip-2.pdb
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\11-15.12.2020\2-ToolTip-NotifyIcon\toolTip-2\toolTip-2\obj\x86\Debug\toolTip_2.Form1.resources
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\11-15.12.2020\2-ToolTip-NotifyIcon\toolTip-2\toolTip-2\obj\x86\Debug\toolTip_2.Properties.Resources.resources
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\11-15.12.2020\2-ToolTip-NotifyIcon\toolTip-2\toolTip-2\obj\x86\Debug\toolTip-2.csproj.GenerateResource.Cache

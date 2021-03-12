@@ -1,0 +1,16 @@
+C:\Users\vildan\Desktop\olaylar\olaylar\bin\Debug\olaylar.exe
+C:\Users\vildan\Desktop\olaylar\olaylar\bin\Debug\olaylar.pdb
+C:\Users\vildan\Desktop\olaylar\olaylar\obj\x86\Debug\olaylar.Form1.resources
+C:\Users\vildan\Desktop\olaylar\olaylar\obj\x86\Debug\olaylar.Properties.Resources.resources
+C:\Users\vildan\Desktop\olaylar\olaylar\obj\x86\Debug\olaylar.csproj.GenerateResource.Cache
+C:\Users\vildan\Desktop\olaylar\olaylar\obj\x86\Debug\olaylar.exe
+C:\Users\vildan\Desktop\olaylar\olaylar\obj\x86\Debug\olaylar.pdb
+C:\Users\vildan\Desktop\12A NTP UZAKTAN EĞİTİM\10-08.12.2020\5-Olaylar\olaylar\olaylar\obj\x86\Debug\olaylar.exe
+C:\Users\vildan\Desktop\12A NTP UZAKTAN EĞİTİM\10-08.12.2020\5-Olaylar\olaylar\olaylar\obj\x86\Debug\olaylar.pdb
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\11-15.12.2020\0-Olaylarr tekrarı\olaylar\olaylar\obj\x86\Debug\olaylar.exe
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\11-15.12.2020\0-Olaylarr tekrarı\olaylar\olaylar\obj\x86\Debug\olaylar.pdb
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\11-15.12.2020\0-Olaylarr tekrarı\olaylar\olaylar\bin\Debug\olaylar.exe
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\11-15.12.2020\0-Olaylarr tekrarı\olaylar\olaylar\bin\Debug\olaylar.pdb
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\11-15.12.2020\0-Olaylarr tekrarı\olaylar\olaylar\obj\x86\Debug\olaylar.Form1.resources
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\11-15.12.2020\0-Olaylarr tekrarı\olaylar\olaylar\obj\x86\Debug\olaylar.Properties.Resources.resources
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\11-15.12.2020\0-Olaylarr tekrarı\olaylar\olaylar\obj\x86\Debug\olaylar.csproj.GenerateResource.Cache

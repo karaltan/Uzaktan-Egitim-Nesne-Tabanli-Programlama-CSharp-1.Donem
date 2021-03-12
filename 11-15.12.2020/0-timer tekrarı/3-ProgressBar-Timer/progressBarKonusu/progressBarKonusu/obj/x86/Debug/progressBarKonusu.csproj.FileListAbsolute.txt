@@ -1,0 +1,7 @@
+C:\Users\vildan\Desktop\progressBarKonusu\progressBarKonusu\bin\Debug\progressBarKonusu.exe
+C:\Users\vildan\Desktop\progressBarKonusu\progressBarKonusu\bin\Debug\progressBarKonusu.pdb
+C:\Users\vildan\Desktop\progressBarKonusu\progressBarKonusu\obj\x86\Debug\progressBarKonusu.Form1.resources
+C:\Users\vildan\Desktop\progressBarKonusu\progressBarKonusu\obj\x86\Debug\progressBarKonusu.Properties.Resources.resources
+C:\Users\vildan\Desktop\progressBarKonusu\progressBarKonusu\obj\x86\Debug\progressBarKonusu.csproj.GenerateResource.Cache
+C:\Users\vildan\Desktop\progressBarKonusu\progressBarKonusu\obj\x86\Debug\progressBarKonusu.exe
+C:\Users\vildan\Desktop\progressBarKonusu\progressBarKonusu\obj\x86\Debug\progressBarKonusu.pdb

@@ -1,0 +1,7 @@
+C:\Users\vilda\OneDrive\Desktop\ÇözBeni\ÇözBeni\bin\Debug\ÇözBeni.exe
+C:\Users\vilda\OneDrive\Desktop\ÇözBeni\ÇözBeni\bin\Debug\ÇözBeni.pdb
+C:\Users\vilda\OneDrive\Desktop\ÇözBeni\ÇözBeni\obj\x86\Debug\ÇözBeni.Form1.resources
+C:\Users\vilda\OneDrive\Desktop\ÇözBeni\ÇözBeni\obj\x86\Debug\ÇözBeni.Properties.Resources.resources
+C:\Users\vilda\OneDrive\Desktop\ÇözBeni\ÇözBeni\obj\x86\Debug\ÇözBeni.csproj.GenerateResource.Cache
+C:\Users\vilda\OneDrive\Desktop\ÇözBeni\ÇözBeni\obj\x86\Debug\ÇözBeni.exe
+C:\Users\vilda\OneDrive\Desktop\ÇözBeni\ÇözBeni\obj\x86\Debug\ÇözBeni.pdb

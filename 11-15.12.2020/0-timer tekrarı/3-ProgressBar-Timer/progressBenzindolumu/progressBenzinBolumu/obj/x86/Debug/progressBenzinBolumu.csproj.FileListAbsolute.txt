@@ -1,0 +1,15 @@
+C:\Users\vildan\Desktop\progressBenzinBolumu\progressBenzinBolumu\bin\Debug\progressBenzinBolumu.exe
+C:\Users\vildan\Desktop\progressBenzinBolumu\progressBenzinBolumu\bin\Debug\progressBenzinBolumu.pdb
+C:\Users\vildan\Desktop\progressBenzinBolumu\progressBenzinBolumu\obj\x86\Debug\progressBenzinBolumu.Form1.resources
+C:\Users\vildan\Desktop\progressBenzinBolumu\progressBenzinBolumu\obj\x86\Debug\progressBenzinBolumu.Properties.Resources.resources
+C:\Users\vildan\Desktop\progressBenzinBolumu\progressBenzinBolumu\obj\x86\Debug\progressBenzinBolumu.csproj.GenerateResource.Cache
+C:\Users\vildan\Desktop\progressBenzinBolumu\progressBenzinBolumu\obj\x86\Debug\progressBenzinBolumu.exe
+C:\Users\vildan\Desktop\progressBenzinBolumu\progressBenzinBolumu\obj\x86\Debug\progressBenzinBolumu.pdb
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\11-15.12.2020\0-timer tekrarı\3-ProgressBar-Timer\progressBenzindolumu\progressBenzinBolumu\obj\x86\Debug\progressBenzinBolumu.exe
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\11-15.12.2020\0-timer tekrarı\3-ProgressBar-Timer\progressBenzindolumu\progressBenzinBolumu\obj\x86\Debug\progressBenzinBolumu.pdb
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\11-15.12.2020\0-timer tekrarı\3-ProgressBar-Timer\progressBenzindolumu\progressBenzinBolumu\bin\Debug\progressBenzinBolumu.exe
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\11-15.12.2020\0-timer tekrarı\3-ProgressBar-Timer\progressBenzindolumu\progressBenzinBolumu\bin\Debug\progressBenzinBolumu.pdb
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\11-15.12.2020\0-timer tekrarı\3-ProgressBar-Timer\progressBenzindolumu\progressBenzinBolumu\obj\x86\Debug\progressBenzinBolumu.Form1.resources
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\11-15.12.2020\0-timer tekrarı\3-ProgressBar-Timer\progressBenzindolumu\progressBenzinBolumu\obj\x86\Debug\progressBenzinBolumu.Properties.Resources.resources
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\11-15.12.2020\0-timer tekrarı\3-ProgressBar-Timer\progressBenzindolumu\progressBenzinBolumu\obj\x86\Debug\progressBenzinBolumu.csproj.GenerateResource.Cache
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\11-15.12.2020\0-timer tekrarı\3-ProgressBar-Timer\progressBenzindolumu\progressBenzinBolumu\obj\x86\Debug\progressBenzinBolumu.csprojResolveAssemblyReference.cache

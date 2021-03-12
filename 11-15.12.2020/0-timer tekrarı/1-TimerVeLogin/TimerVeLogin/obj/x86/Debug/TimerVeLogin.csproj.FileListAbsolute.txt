@@ -1,0 +1,7 @@
+C:\Users\vilda\OneDrive\Desktop\TimerVeLogin\TimerVeLogin\bin\Debug\TimerVeLogin.exe
+C:\Users\vilda\OneDrive\Desktop\TimerVeLogin\TimerVeLogin\bin\Debug\TimerVeLogin.pdb
+C:\Users\vilda\OneDrive\Desktop\TimerVeLogin\TimerVeLogin\obj\x86\Debug\TimerVeLogin.Form1.resources
+C:\Users\vilda\OneDrive\Desktop\TimerVeLogin\TimerVeLogin\obj\x86\Debug\TimerVeLogin.Properties.Resources.resources
+C:\Users\vilda\OneDrive\Desktop\TimerVeLogin\TimerVeLogin\obj\x86\Debug\TimerVeLogin.csproj.GenerateResource.Cache
+C:\Users\vilda\OneDrive\Desktop\TimerVeLogin\TimerVeLogin\obj\x86\Debug\TimerVeLogin.exe
+C:\Users\vilda\OneDrive\Desktop\TimerVeLogin\TimerVeLogin\obj\x86\Debug\TimerVeLogin.pdb
