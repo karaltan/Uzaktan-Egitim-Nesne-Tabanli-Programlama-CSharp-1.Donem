@@ -1,0 +1,8 @@
+C:\Users\vildan\Desktop\splashScreenim\splashScreenim\bin\Debug\splashScreenim.exe
+C:\Users\vildan\Desktop\splashScreenim\splashScreenim\bin\Debug\splashScreenim.pdb
+C:\Users\vildan\Desktop\splashScreenim\splashScreenim\obj\x86\Debug\splashScreenim.Form1.resources
+C:\Users\vildan\Desktop\splashScreenim\splashScreenim\obj\x86\Debug\splashScreenim.Properties.Resources.resources
+C:\Users\vildan\Desktop\splashScreenim\splashScreenim\obj\x86\Debug\splashScreenim.csproj.GenerateResource.Cache
+C:\Users\vildan\Desktop\splashScreenim\splashScreenim\obj\x86\Debug\splashScreenim.exe
+C:\Users\vildan\Desktop\splashScreenim\splashScreenim\obj\x86\Debug\splashScreenim.pdb
+C:\Users\vildan\Desktop\splashScreenim\splashScreenim\obj\x86\Debug\splashScreenim.anaForm.resources

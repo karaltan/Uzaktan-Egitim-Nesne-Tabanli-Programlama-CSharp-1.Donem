@@ -1,0 +1,7 @@
+C:\Users\vildan\Desktop\numericUpDownKonusu\numericUpDownKonusu\bin\Debug\numericUpDownKonusu.exe
+C:\Users\vildan\Desktop\numericUpDownKonusu\numericUpDownKonusu\bin\Debug\numericUpDownKonusu.pdb
+C:\Users\vildan\Desktop\numericUpDownKonusu\numericUpDownKonusu\obj\x86\Debug\numericUpDownKonusu.Form1.resources
+C:\Users\vildan\Desktop\numericUpDownKonusu\numericUpDownKonusu\obj\x86\Debug\numericUpDownKonusu.Properties.Resources.resources
+C:\Users\vildan\Desktop\numericUpDownKonusu\numericUpDownKonusu\obj\x86\Debug\numericUpDownKonusu.csproj.GenerateResource.Cache
+C:\Users\vildan\Desktop\numericUpDownKonusu\numericUpDownKonusu\obj\x86\Debug\numericUpDownKonusu.exe
+C:\Users\vildan\Desktop\numericUpDownKonusu\numericUpDownKonusu\obj\x86\Debug\numericUpDownKonusu.pdb

@@ -1,0 +1,10 @@
+D:\Documents and Settings\alto\Desktop\ListBoxNesnesi\ListBoxNesnesi\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\alto\Desktop\ListBoxNesnesi\ListBoxNesnesi\obj\Debug\ListBoxNesnesi.Form1.resources
+D:\Documents and Settings\alto\Desktop\ListBoxNesnesi\ListBoxNesnesi\obj\Debug\ListBoxNesnesi.Properties.Resources.resources
+D:\Documents and Settings\alto\Desktop\ListBoxNesnesi\ListBoxNesnesi\obj\Debug\ListBoxNesnesi.csproj.GenerateResource.Cache
+D:\Documents and Settings\alto\Desktop\ListBoxNesnesi\ListBoxNesnesi\bin\Debug\ListBoxNesnesi.exe
+D:\Documents and Settings\alto\Desktop\ListBoxNesnesi\ListBoxNesnesi\bin\Debug\ListBoxNesnesi.pdb
+D:\Documents and Settings\alto\Desktop\ListBoxNesnesi\ListBoxNesnesi\obj\Debug\ListBoxNesnesi.exe
+D:\Documents and Settings\alto\Desktop\ListBoxNesnesi\ListBoxNesnesi\obj\Debug\ListBoxNesnesi.pdb
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\10-08.12.2020\1-ListBoxNesnesi\ListBoxNesnesi\obj\Debug\ListBoxNesnesi.exe
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\10-08.12.2020\1-ListBoxNesnesi\ListBoxNesnesi\obj\Debug\ListBoxNesnesi.pdb

@@ -1,0 +1,7 @@
+C:\Users\vildan\Desktop\progressBenzinBolumu\progressBenzinBolumu\bin\Debug\progressBenzinBolumu.exe
+C:\Users\vildan\Desktop\progressBenzinBolumu\progressBenzinBolumu\bin\Debug\progressBenzinBolumu.pdb
+C:\Users\vildan\Desktop\progressBenzinBolumu\progressBenzinBolumu\obj\x86\Debug\progressBenzinBolumu.Form1.resources
+C:\Users\vildan\Desktop\progressBenzinBolumu\progressBenzinBolumu\obj\x86\Debug\progressBenzinBolumu.Properties.Resources.resources
+C:\Users\vildan\Desktop\progressBenzinBolumu\progressBenzinBolumu\obj\x86\Debug\progressBenzinBolumu.csproj.GenerateResource.Cache
+C:\Users\vildan\Desktop\progressBenzinBolumu\progressBenzinBolumu\obj\x86\Debug\progressBenzinBolumu.exe
+C:\Users\vildan\Desktop\progressBenzinBolumu\progressBenzinBolumu\obj\x86\Debug\progressBenzinBolumu.pdb

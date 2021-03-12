@@ -1,0 +1,7 @@
+C:\Users\vildan\Desktop\renkTonu\renkTonu\bin\Debug\renkTonu.exe
+C:\Users\vildan\Desktop\renkTonu\renkTonu\bin\Debug\renkTonu.pdb
+C:\Users\vildan\Desktop\renkTonu\renkTonu\obj\x86\Debug\renkTonu.Form1.resources
+C:\Users\vildan\Desktop\renkTonu\renkTonu\obj\x86\Debug\renkTonu.Properties.Resources.resources
+C:\Users\vildan\Desktop\renkTonu\renkTonu\obj\x86\Debug\renkTonu.csproj.GenerateResource.Cache
+C:\Users\vildan\Desktop\renkTonu\renkTonu\obj\x86\Debug\renkTonu.exe
+C:\Users\vildan\Desktop\renkTonu\renkTonu\obj\x86\Debug\renkTonu.pdb

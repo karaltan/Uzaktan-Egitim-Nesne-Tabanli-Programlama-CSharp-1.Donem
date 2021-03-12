@@ -1,0 +1,9 @@
+C:\Users\vildan\Desktop\olaylar\olaylar\bin\Debug\olaylar.exe
+C:\Users\vildan\Desktop\olaylar\olaylar\bin\Debug\olaylar.pdb
+C:\Users\vildan\Desktop\olaylar\olaylar\obj\x86\Debug\olaylar.Form1.resources
+C:\Users\vildan\Desktop\olaylar\olaylar\obj\x86\Debug\olaylar.Properties.Resources.resources
+C:\Users\vildan\Desktop\olaylar\olaylar\obj\x86\Debug\olaylar.csproj.GenerateResource.Cache
+C:\Users\vildan\Desktop\olaylar\olaylar\obj\x86\Debug\olaylar.exe
+C:\Users\vildan\Desktop\olaylar\olaylar\obj\x86\Debug\olaylar.pdb
+C:\Users\vildan\Desktop\12A NTP UZAKTAN EĞİTİM\10-08.12.2020\5-Olaylar\olaylar\olaylar\obj\x86\Debug\olaylar.exe
+C:\Users\vildan\Desktop\12A NTP UZAKTAN EĞİTİM\10-08.12.2020\5-Olaylar\olaylar\olaylar\obj\x86\Debug\olaylar.pdb
