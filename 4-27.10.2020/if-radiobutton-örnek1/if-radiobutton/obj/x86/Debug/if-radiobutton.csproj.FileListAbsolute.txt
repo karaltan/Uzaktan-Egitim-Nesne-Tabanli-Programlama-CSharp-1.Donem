@@ -1,0 +1,7 @@
+C:\Users\lab4pc\Desktop\if-radiobutton\if-radiobutton\bin\Debug\if-radiobutton.exe
+C:\Users\lab4pc\Desktop\if-radiobutton\if-radiobutton\bin\Debug\if-radiobutton.pdb
+C:\Users\lab4pc\Desktop\if-radiobutton\if-radiobutton\obj\x86\Debug\if_radiobutton.Form1.resources
+C:\Users\lab4pc\Desktop\if-radiobutton\if-radiobutton\obj\x86\Debug\if_radiobutton.Properties.Resources.resources
+C:\Users\lab4pc\Desktop\if-radiobutton\if-radiobutton\obj\x86\Debug\if-radiobutton.csproj.GenerateResource.Cache
+C:\Users\lab4pc\Desktop\if-radiobutton\if-radiobutton\obj\x86\Debug\if-radiobutton.exe
+C:\Users\lab4pc\Desktop\if-radiobutton\if-radiobutton\obj\x86\Debug\if-radiobutton.pdb
