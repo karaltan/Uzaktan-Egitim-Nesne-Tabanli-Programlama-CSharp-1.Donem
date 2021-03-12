@@ -1,0 +1,12 @@
+okul sınıf/şube patterni:
+
+9/B
+10/A
+12/K
+
+
+/B 	YAZAMAZ
+11 	YAZAMAZ
+120/C 	YAZAMAZ
+
+CEVAP: 90/L

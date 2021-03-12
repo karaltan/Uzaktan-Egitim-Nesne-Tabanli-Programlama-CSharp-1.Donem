@@ -1,0 +1,23 @@
+C:\Users\vilda\AppData\Local\Temporary Projects\hariciProgramCagirmek\bin\Debug\hariciProgramCagirmek.exe
+C:\Users\vilda\AppData\Local\Temporary Projects\hariciProgramCagirmek\bin\Debug\hariciProgramCagirmek.pdb
+C:\Users\vilda\AppData\Local\Temporary Projects\hariciProgramCagirmek\obj\x86\Debug\hariciProgramCagirmek.Form1.resources
+C:\Users\vilda\AppData\Local\Temporary Projects\hariciProgramCagirmek\obj\x86\Debug\hariciProgramCagirmek.Properties.Resources.resources
+C:\Users\vilda\AppData\Local\Temporary Projects\hariciProgramCagirmek\obj\x86\Debug\hariciProgramCagirmek.csproj.GenerateResource.Cache
+C:\Users\vilda\AppData\Local\Temporary Projects\hariciProgramCagirmek\obj\x86\Debug\hariciProgramCagirmek.exe
+C:\Users\vilda\AppData\Local\Temporary Projects\hariciProgramCagirmek\obj\x86\Debug\hariciProgramCagirmek.pdb
+C:\Users\vilda\OneDrive\Desktop\hariciProgramCagirmek\hariciProgramCagirmek\obj\x86\Debug\hariciProgramCagirmek.exe
+C:\Users\vilda\OneDrive\Desktop\hariciProgramCagirmek\hariciProgramCagirmek\obj\x86\Debug\hariciProgramCagirmek.pdb
+C:\Users\vilda\OneDrive\Desktop\hariciProgramCagirmek\hariciProgramCagirmek\bin\Debug\hariciProgramCagirmek.exe
+C:\Users\vilda\OneDrive\Desktop\hariciProgramCagirmek\hariciProgramCagirmek\bin\Debug\hariciProgramCagirmek.pdb
+C:\Users\vilda\OneDrive\Desktop\hariciProgramCagirmek\hariciProgramCagirmek\obj\x86\Debug\hariciProgramCagirmek.Form1.resources
+C:\Users\vilda\OneDrive\Desktop\hariciProgramCagirmek\hariciProgramCagirmek\obj\x86\Debug\hariciProgramCagirmek.Properties.Resources.resources
+C:\Users\vilda\OneDrive\Desktop\hariciProgramCagirmek\hariciProgramCagirmek\obj\x86\Debug\hariciProgramCagirmek.csproj.GenerateResource.Cache
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\12-22.12.2020\1-2-MENÜLER\hariciProgramCagirmak-Sonlandırmak\hariciProgramCagirmek\obj\x86\Debug\hariciProgramCagirmek.exe
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\12-22.12.2020\1-2-MENÜLER\hariciProgramCagirmak-Sonlandırmak\hariciProgramCagirmek\obj\x86\Debug\hariciProgramCagirmek.pdb
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\12-22.12.2020\1-2-MENULER\extra-hariciProgramCagirmak-Sonlandırmak\hariciProgramCagirmek\obj\x86\Debug\hariciProgramCagirmek.exe
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\12-22.12.2020\1-2-MENULER\extra-hariciProgramCagirmak-Sonlandırmak\hariciProgramCagirmek\obj\x86\Debug\hariciProgramCagirmek.pdb
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\12-22.12.2020\1-2-MENULER\extra-hariciProgramCagirmak-Sonlandırmak\hariciProgramCagirmek\bin\Debug\hariciProgramCagirmek.exe
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\12-22.12.2020\1-2-MENULER\extra-hariciProgramCagirmak-Sonlandırmak\hariciProgramCagirmek\bin\Debug\hariciProgramCagirmek.pdb
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\12-22.12.2020\1-2-MENULER\extra-hariciProgramCagirmak-Sonlandırmak\hariciProgramCagirmek\obj\x86\Debug\hariciProgramCagirmek.Form1.resources
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\12-22.12.2020\1-2-MENULER\extra-hariciProgramCagirmak-Sonlandırmak\hariciProgramCagirmek\obj\x86\Debug\hariciProgramCagirmek.Properties.Resources.resources
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\12-22.12.2020\1-2-MENULER\extra-hariciProgramCagirmak-Sonlandırmak\hariciProgramCagirmek\obj\x86\Debug\hariciProgramCagirmek.csproj.GenerateResource.Cache

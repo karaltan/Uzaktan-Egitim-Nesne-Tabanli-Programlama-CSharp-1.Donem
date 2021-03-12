@@ -1,0 +1,14 @@
+C:\Users\vilda\OneDrive\Desktop\patternOlusturmak\patternOlusturmak\bin\Debug\patternOlusturmak.exe
+C:\Users\vilda\OneDrive\Desktop\patternOlusturmak\patternOlusturmak\bin\Debug\patternOlusturmak.pdb
+C:\Users\vilda\OneDrive\Desktop\patternOlusturmak\patternOlusturmak\obj\x86\Debug\patternOlusturmak.Form1.resources
+C:\Users\vilda\OneDrive\Desktop\patternOlusturmak\patternOlusturmak\obj\x86\Debug\patternOlusturmak.Properties.Resources.resources
+C:\Users\vilda\OneDrive\Desktop\patternOlusturmak\patternOlusturmak\obj\x86\Debug\patternOlusturmak.csproj.GenerateResource.Cache
+C:\Users\vilda\OneDrive\Desktop\patternOlusturmak\patternOlusturmak\obj\x86\Debug\patternOlusturmak.exe
+C:\Users\vilda\OneDrive\Desktop\patternOlusturmak\patternOlusturmak\obj\x86\Debug\patternOlusturmak.pdb
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\12-22.12.2020\0-maskedtextbox tekrar\patternOlusturmak\patternOlusturmak\obj\x86\Debug\patternOlusturmak.exe
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\12-22.12.2020\0-maskedtextbox tekrar\patternOlusturmak\patternOlusturmak\obj\x86\Debug\patternOlusturmak.pdb
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\12-22.12.2020\0-maskedtextbox tekrar\patternOlusturmak\patternOlusturmak\bin\Debug\patternOlusturmak.exe
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\12-22.12.2020\0-maskedtextbox tekrar\patternOlusturmak\patternOlusturmak\bin\Debug\patternOlusturmak.pdb
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\12-22.12.2020\0-maskedtextbox tekrar\patternOlusturmak\patternOlusturmak\obj\x86\Debug\patternOlusturmak.Form1.resources
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\12-22.12.2020\0-maskedtextbox tekrar\patternOlusturmak\patternOlusturmak\obj\x86\Debug\patternOlusturmak.Properties.Resources.resources
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\12-22.12.2020\0-maskedtextbox tekrar\patternOlusturmak\patternOlusturmak\obj\x86\Debug\patternOlusturmak.csproj.GenerateResource.Cache

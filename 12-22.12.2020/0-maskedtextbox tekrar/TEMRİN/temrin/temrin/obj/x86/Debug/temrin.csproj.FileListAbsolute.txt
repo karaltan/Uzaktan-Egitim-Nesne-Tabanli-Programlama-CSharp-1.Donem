@@ -1,0 +1,9 @@
+C:\Users\vilda\AppData\Local\Temporary Projects\temrin\bin\Debug\temrin.exe
+C:\Users\vilda\AppData\Local\Temporary Projects\temrin\bin\Debug\temrin.pdb
+C:\Users\vilda\AppData\Local\Temporary Projects\temrin\obj\x86\Debug\temrin.Form1.resources
+C:\Users\vilda\AppData\Local\Temporary Projects\temrin\obj\x86\Debug\temrin.Properties.Resources.resources
+C:\Users\vilda\AppData\Local\Temporary Projects\temrin\obj\x86\Debug\temrin.csproj.GenerateResource.Cache
+C:\Users\vilda\AppData\Local\Temporary Projects\temrin\obj\x86\Debug\temrin.exe
+C:\Users\vilda\AppData\Local\Temporary Projects\temrin\obj\x86\Debug\temrin.pdb
+C:\Users\vilda\OneDrive\Desktop\temrin\temrin\obj\x86\Debug\temrin.exe
+C:\Users\vilda\OneDrive\Desktop\temrin\temrin\obj\x86\Debug\temrin.pdb

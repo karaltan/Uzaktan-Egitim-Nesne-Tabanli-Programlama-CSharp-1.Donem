@@ -1,0 +1,22 @@
+C:\Users\vilda\OneDrive\Desktop\NTP UZAKTAN EĞİTİM\8-UE-24.11.2020\maskelitextkutusu\maskelitextkutusu\bin\Debug\maskelitextkutusu.exe
+C:\Users\vilda\OneDrive\Desktop\NTP UZAKTAN EĞİTİM\8-UE-24.11.2020\maskelitextkutusu\maskelitextkutusu\bin\Debug\maskelitextkutusu.pdb
+C:\Users\vilda\OneDrive\Desktop\NTP UZAKTAN EĞİTİM\8-UE-24.11.2020\maskelitextkutusu\maskelitextkutusu\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\vilda\OneDrive\Desktop\NTP UZAKTAN EĞİTİM\8-UE-24.11.2020\maskelitextkutusu\maskelitextkutusu\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\vilda\OneDrive\Desktop\NTP UZAKTAN EĞİTİM\8-UE-24.11.2020\maskelitextkutusu\maskelitextkutusu\obj\x86\Debug\maskelitextkutusu.csproj.GenerateResource.Cache
+C:\Users\vilda\OneDrive\Desktop\NTP UZAKTAN EĞİTİM\8-UE-24.11.2020\maskelitextkutusu\maskelitextkutusu\obj\x86\Debug\maskelitextkutusu.exe
+C:\Users\vilda\OneDrive\Desktop\NTP UZAKTAN EĞİTİM\8-UE-24.11.2020\maskelitextkutusu\maskelitextkutusu\obj\x86\Debug\maskelitextkutusu.pdb
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\11-15.12.2020\1-MaskedTextBox\maskelitextkutusu\maskelitextkutusu\obj\x86\Debug\maskelitextkutusu.exe
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\11-15.12.2020\1-MaskedTextBox\maskelitextkutusu\maskelitextkutusu\obj\x86\Debug\maskelitextkutusu.pdb
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\11-15.12.2020\1-MaskedTextBox\maskelitextkutusu\maskelitextkutusu\bin\Debug\maskelitextkutusu.exe
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\11-15.12.2020\1-MaskedTextBox\maskelitextkutusu\maskelitextkutusu\bin\Debug\maskelitextkutusu.pdb
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\11-15.12.2020\1-MaskedTextBox\maskelitextkutusu\maskelitextkutusu\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\11-15.12.2020\1-MaskedTextBox\maskelitextkutusu\maskelitextkutusu\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\11-15.12.2020\1-MaskedTextBox\maskelitextkutusu\maskelitextkutusu\obj\x86\Debug\maskelitextkutusu.csproj.GenerateResource.Cache
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\12-22.12.2020\0-maskedtextbox tekrar\maskelitextkutusu\maskelitextkutusu\obj\x86\Debug\maskelitextkutusu.exe
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\12-22.12.2020\0-maskedtextbox tekrar\maskelitextkutusu\maskelitextkutusu\obj\x86\Debug\maskelitextkutusu.pdb
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\12-22.12.2020\0-maskedtextbox tekrar\maskelitextkutusu\maskelitextkutusu\bin\Debug\maskelitextkutusu.exe
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\12-22.12.2020\0-maskedtextbox tekrar\maskelitextkutusu\maskelitextkutusu\bin\Debug\maskelitextkutusu.pdb
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\12-22.12.2020\0-maskedtextbox tekrar\maskelitextkutusu\maskelitextkutusu\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\12-22.12.2020\0-maskedtextbox tekrar\maskelitextkutusu\maskelitextkutusu\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\12-22.12.2020\0-maskedtextbox tekrar\maskelitextkutusu\maskelitextkutusu\obj\x86\Debug\maskelitextkutusu.csproj.GenerateResource.Cache
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\12-22.12.2020\0-maskedtextbox tekrar\maskelitextkutusu\maskelitextkutusu\obj\x86\Debug\maskelitextkutusu.csprojResolveAssemblyReference.cache

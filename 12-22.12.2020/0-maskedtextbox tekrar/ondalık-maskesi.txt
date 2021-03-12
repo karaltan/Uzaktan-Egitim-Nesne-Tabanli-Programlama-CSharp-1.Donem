@@ -1,0 +1,14 @@
+
+
+XXX lira,XX kuruş
+100 lira,34 kuruş
+
+* sol taraf max 3 hane, 2 veya 1 olabilir
+* sağ taraf 2 hane
+
+0,23  23 kuruş
+1,23  1 lira 23 kuruş
+12,45 12 lira 45 kuruş
+100,34
+
+CEVAP: 990,00T\L
