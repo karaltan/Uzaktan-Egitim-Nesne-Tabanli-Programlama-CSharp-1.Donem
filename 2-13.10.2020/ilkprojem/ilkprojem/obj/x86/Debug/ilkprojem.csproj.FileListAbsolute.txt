@@ -1,0 +1,7 @@
+C:\Users\lab4pc\Desktop\ilkprojem\ilkprojem\bin\Debug\ilkprojem.exe
+C:\Users\lab4pc\Desktop\ilkprojem\ilkprojem\bin\Debug\ilkprojem.pdb
+C:\Users\lab4pc\Desktop\ilkprojem\ilkprojem\obj\x86\Debug\ilkprojem.Form1.resources
+C:\Users\lab4pc\Desktop\ilkprojem\ilkprojem\obj\x86\Debug\ilkprojem.Properties.Resources.resources
+C:\Users\lab4pc\Desktop\ilkprojem\ilkprojem\obj\x86\Debug\ilkprojem.csproj.GenerateResource.Cache
+C:\Users\lab4pc\Desktop\ilkprojem\ilkprojem\obj\x86\Debug\ilkprojem.exe
+C:\Users\lab4pc\Desktop\ilkprojem\ilkprojem\obj\x86\Debug\ilkprojem.pdb
