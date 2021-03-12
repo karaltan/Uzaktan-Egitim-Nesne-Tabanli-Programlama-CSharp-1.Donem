@@ -1,0 +1,9 @@
+C:\Users\vilda\AppData\Local\Temporary Projects\açılırliste-1\bin\Debug\açılırliste-1.exe
+C:\Users\vilda\AppData\Local\Temporary Projects\açılırliste-1\bin\Debug\açılırliste-1.pdb
+C:\Users\vilda\AppData\Local\Temporary Projects\açılırliste-1\obj\x86\Debug\açılırliste_1.Form1.resources
+C:\Users\vilda\AppData\Local\Temporary Projects\açılırliste-1\obj\x86\Debug\açılırliste_1.Properties.Resources.resources
+C:\Users\vilda\AppData\Local\Temporary Projects\açılırliste-1\obj\x86\Debug\açılırliste-1.csproj.GenerateResource.Cache
+C:\Users\vilda\AppData\Local\Temporary Projects\açılırliste-1\obj\x86\Debug\açılırliste-1.exe
+C:\Users\vilda\AppData\Local\Temporary Projects\açılırliste-1\obj\x86\Debug\açılırliste-1.pdb
+C:\Users\vilda\OneDrive\Desktop\NTP UZAKTAN EĞİTİM\8-UE-24.11.2020\açılırliste-1\açılırliste-1\obj\x86\Debug\açılırliste-1.exe
+C:\Users\vilda\OneDrive\Desktop\NTP UZAKTAN EĞİTİM\8-UE-24.11.2020\açılırliste-1\açılırliste-1\obj\x86\Debug\açılırliste-1.pdb

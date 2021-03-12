@@ -1,0 +1,16 @@
+C:\Users\vilda\AppData\Local\Temporary Projects\sipariş\bin\Debug\sipariş.exe
+C:\Users\vilda\AppData\Local\Temporary Projects\sipariş\bin\Debug\sipariş.pdb
+C:\Users\vilda\AppData\Local\Temporary Projects\sipariş\obj\x86\Debug\sipariş.Form1.resources
+C:\Users\vilda\AppData\Local\Temporary Projects\sipariş\obj\x86\Debug\sipariş.Properties.Resources.resources
+C:\Users\vilda\AppData\Local\Temporary Projects\sipariş\obj\x86\Debug\sipariş.csproj.GenerateResource.Cache
+C:\Users\vilda\AppData\Local\Temporary Projects\sipariş\obj\x86\Debug\sipariş.exe
+C:\Users\vilda\AppData\Local\Temporary Projects\sipariş\obj\x86\Debug\sipariş.pdb
+C:\Users\vilda\OneDrive\Desktop\NTP UZAKTAN EĞİTİM\8-UE-24.11.2020\sipariş\sipariş\obj\x86\Debug\sipariş.exe
+C:\Users\vilda\OneDrive\Desktop\NTP UZAKTAN EĞİTİM\8-UE-24.11.2020\sipariş\sipariş\obj\x86\Debug\sipariş.pdb
+C:\Users\vilda\OneDrive\Desktop\NTP UZAKTAN EĞİTİM\8-UE-24.11.2020\sipariş - TEMRİN\sipariş\obj\x86\Debug\sipariş.exe
+C:\Users\vilda\OneDrive\Desktop\NTP UZAKTAN EĞİTİM\8-UE-24.11.2020\sipariş - TEMRİN\sipariş\obj\x86\Debug\sipariş.pdb
+C:\Users\vilda\OneDrive\Desktop\NTP UZAKTAN EĞİTİM\8-UE-24.11.2020\sipariş - TEMRİN\sipariş\bin\Debug\sipariş.exe
+C:\Users\vilda\OneDrive\Desktop\NTP UZAKTAN EĞİTİM\8-UE-24.11.2020\sipariş - TEMRİN\sipariş\bin\Debug\sipariş.pdb
+C:\Users\vilda\OneDrive\Desktop\NTP UZAKTAN EĞİTİM\8-UE-24.11.2020\sipariş - TEMRİN\sipariş\obj\x86\Debug\sipariş.Form1.resources
+C:\Users\vilda\OneDrive\Desktop\NTP UZAKTAN EĞİTİM\8-UE-24.11.2020\sipariş - TEMRİN\sipariş\obj\x86\Debug\sipariş.Properties.Resources.resources
+C:\Users\vilda\OneDrive\Desktop\NTP UZAKTAN EĞİTİM\8-UE-24.11.2020\sipariş - TEMRİN\sipariş\obj\x86\Debug\sipariş.csproj.GenerateResource.Cache

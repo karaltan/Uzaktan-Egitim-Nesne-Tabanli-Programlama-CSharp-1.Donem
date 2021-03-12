@@ -1,0 +1,9 @@
+C:\Users\vilda\OneDrive\Desktop\NTP UZAKTAN EĞİTİM\8-UE-24.11.2020\checkBox-1\checkBox-1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\vilda\OneDrive\Desktop\NTP UZAKTAN EĞİTİM\8-UE-24.11.2020\checkBox-1\checkBox-1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\vilda\OneDrive\Desktop\NTP UZAKTAN EĞİTİM\8-UE-24.11.2020\checkBox-1\checkBox-1\obj\x86\Debug\checkBox-1.csproj.GenerateResource.Cache
+C:\Users\vilda\OneDrive\Desktop\NTP UZAKTAN EĞİTİM\8-UE-24.11.2020\checkBox-1\checkBox-1\bin\Debug\checkBox-1.exe
+C:\Users\vilda\OneDrive\Desktop\NTP UZAKTAN EĞİTİM\8-UE-24.11.2020\checkBox-1\checkBox-1\bin\Debug\checkBox-1.pdb
+C:\Users\vilda\OneDrive\Desktop\NTP UZAKTAN EĞİTİM\8-UE-24.11.2020\checkBox-1\checkBox-1\obj\x86\Debug\checkBox-1.exe
+C:\Users\vilda\OneDrive\Desktop\NTP UZAKTAN EĞİTİM\8-UE-24.11.2020\checkBox-1\checkBox-1\obj\x86\Debug\checkBox-1.pdb
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\8-24.11.2020\checkBox-1\checkBox-1\obj\x86\Debug\checkBox-1.exe
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\8-24.11.2020\checkBox-1\checkBox-1\obj\x86\Debug\checkBox-1.pdb
