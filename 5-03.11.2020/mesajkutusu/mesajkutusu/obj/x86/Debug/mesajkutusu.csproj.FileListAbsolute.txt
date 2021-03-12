@@ -1,0 +1,7 @@
+C:\Users\lab4pc\Desktop\mesajkutusu\mesajkutusu\obj\x86\Debug\mesajkutusu.Form1.resources
+C:\Users\lab4pc\Desktop\mesajkutusu\mesajkutusu\obj\x86\Debug\mesajkutusu.Properties.Resources.resources
+C:\Users\lab4pc\Desktop\mesajkutusu\mesajkutusu\obj\x86\Debug\mesajkutusu.csproj.GenerateResource.Cache
+C:\Users\lab4pc\Desktop\mesajkutusu\mesajkutusu\bin\Debug\mesajkutusu.exe
+C:\Users\lab4pc\Desktop\mesajkutusu\mesajkutusu\bin\Debug\mesajkutusu.pdb
+C:\Users\lab4pc\Desktop\mesajkutusu\mesajkutusu\obj\x86\Debug\mesajkutusu.exe
+C:\Users\lab4pc\Desktop\mesajkutusu\mesajkutusu\obj\x86\Debug\mesajkutusu.pdb
