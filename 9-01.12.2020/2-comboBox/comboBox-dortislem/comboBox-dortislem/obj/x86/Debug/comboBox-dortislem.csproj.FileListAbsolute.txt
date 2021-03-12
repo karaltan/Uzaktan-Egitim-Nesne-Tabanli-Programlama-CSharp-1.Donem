@@ -1,0 +1,7 @@
+C:\Users\vildan\Desktop\comboBox-dortislem\comboBox-dortislem\bin\Debug\comboBox-dortislem.exe
+C:\Users\vildan\Desktop\comboBox-dortislem\comboBox-dortislem\bin\Debug\comboBox-dortislem.pdb
+C:\Users\vildan\Desktop\comboBox-dortislem\comboBox-dortislem\obj\x86\Debug\comboBox_dortislem.Form1.resources
+C:\Users\vildan\Desktop\comboBox-dortislem\comboBox-dortislem\obj\x86\Debug\comboBox_dortislem.Properties.Resources.resources
+C:\Users\vildan\Desktop\comboBox-dortislem\comboBox-dortislem\obj\x86\Debug\comboBox-dortislem.csproj.GenerateResource.Cache
+C:\Users\vildan\Desktop\comboBox-dortislem\comboBox-dortislem\obj\x86\Debug\comboBox-dortislem.exe
+C:\Users\vildan\Desktop\comboBox-dortislem\comboBox-dortislem\obj\x86\Debug\comboBox-dortislem.pdb

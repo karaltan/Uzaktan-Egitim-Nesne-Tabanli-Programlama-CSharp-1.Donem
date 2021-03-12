@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ComboBoxNesnesi">
+</Property><Property Name="Solution File" Value="C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\9-01.12.2020\ComboBoxNesnesi\ComboBoxNesnesi.sln">
+</Property><Property Name="User Options File" Value="C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\9-01.12.2020\ComboBoxNesnesi\ComboBoxNesnesi.suo">
+</Property><Property Name="Date" Value="30 Kasım 2020 Pazartesi">
+</Property><Property Name="Time" Value="22:00">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ComboBoxNesnesi.sln" Description="File successfully backed up as C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\9-01.12.2020\ComboBoxNesnesi\Backup\ComboBoxNesnesi.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ComboBoxNesnesi.suo" Description="File successfully backed up as C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\9-01.12.2020\ComboBoxNesnesi\Backup\ComboBoxNesnesi.suo">
+</Event><Event ErrorLevel="0" Project="ComboBoxNesnesi" Source="ComboBoxNesnesi\ComboBoxNesnesi.csproj" Description="Project file successfully backed up as C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\9-01.12.2020\ComboBoxNesnesi\Backup\ComboBoxNesnesi\ComboBoxNesnesi.csproj">
+</Event><Event ErrorLevel="0" Project="ComboBoxNesnesi" Source="ComboBoxNesnesi\Form1.cs" Description="File successfully backed up as C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\9-01.12.2020\ComboBoxNesnesi\Backup\ComboBoxNesnesi\Form1.cs">
+</Event><Event ErrorLevel="0" Project="ComboBoxNesnesi" Source="ComboBoxNesnesi\Form1.Designer.cs" Description="File successfully backed up as C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\9-01.12.2020\ComboBoxNesnesi\Backup\ComboBoxNesnesi\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ComboBoxNesnesi" Source="ComboBoxNesnesi\Program.cs" Description="File successfully backed up as C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\9-01.12.2020\ComboBoxNesnesi\Backup\ComboBoxNesnesi\Program.cs">
+</Event><Event ErrorLevel="0" Project="ComboBoxNesnesi" Source="ComboBoxNesnesi\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\9-01.12.2020\ComboBoxNesnesi\Backup\ComboBoxNesnesi\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ComboBoxNesnesi" Source="ComboBoxNesnesi\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\9-01.12.2020\ComboBoxNesnesi\Backup\ComboBoxNesnesi\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ComboBoxNesnesi" Source="ComboBoxNesnesi\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\9-01.12.2020\ComboBoxNesnesi\Backup\ComboBoxNesnesi\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ComboBoxNesnesi" Source="ComboBoxNesnesi\Properties\Settings.settings" Description="File successfully backed up as C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\9-01.12.2020\ComboBoxNesnesi\Backup\ComboBoxNesnesi\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ComboBoxNesnesi" Source="ComboBoxNesnesi\Form1.resx" Description="File successfully backed up as C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\9-01.12.2020\ComboBoxNesnesi\Backup\ComboBoxNesnesi\Form1.resx">
+</Event><Event ErrorLevel="0" Project="ComboBoxNesnesi" Source="ComboBoxNesnesi\Properties\Resources.resx" Description="File successfully backed up as C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\9-01.12.2020\ComboBoxNesnesi\Backup\ComboBoxNesnesi\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ComboBoxNesnesi" Source="ComboBoxNesnesi\ComboBoxNesnesi.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ComboBoxNesnesi" Source="ComboBoxNesnesi\ComboBoxNesnesi.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ComboBoxNesnesi.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ComboBoxNesnesi.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ComboBoxNesnesi" Source="ComboBoxNesnesi\ComboBoxNesnesi.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

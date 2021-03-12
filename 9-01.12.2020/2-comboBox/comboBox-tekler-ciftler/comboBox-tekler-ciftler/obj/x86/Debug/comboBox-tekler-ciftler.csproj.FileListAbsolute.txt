@@ -1,0 +1,7 @@
+C:\Users\vildan\Desktop\comboBox-tekler-ciftler\comboBox-tekler-ciftler\bin\Debug\comboBox-tekler-ciftler.exe
+C:\Users\vildan\Desktop\comboBox-tekler-ciftler\comboBox-tekler-ciftler\bin\Debug\comboBox-tekler-ciftler.pdb
+C:\Users\vildan\Desktop\comboBox-tekler-ciftler\comboBox-tekler-ciftler\obj\x86\Debug\comboBox_tekler_ciftler.Form1.resources
+C:\Users\vildan\Desktop\comboBox-tekler-ciftler\comboBox-tekler-ciftler\obj\x86\Debug\comboBox_tekler_ciftler.Properties.Resources.resources
+C:\Users\vildan\Desktop\comboBox-tekler-ciftler\comboBox-tekler-ciftler\obj\x86\Debug\comboBox-tekler-ciftler.csproj.GenerateResource.Cache
+C:\Users\vildan\Desktop\comboBox-tekler-ciftler\comboBox-tekler-ciftler\obj\x86\Debug\comboBox-tekler-ciftler.exe
+C:\Users\vildan\Desktop\comboBox-tekler-ciftler\comboBox-tekler-ciftler\obj\x86\Debug\comboBox-tekler-ciftler.pdb

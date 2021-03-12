@@ -1,0 +1,7 @@
+C:\Users\vildan\Desktop\comboBox-sehir-ilce\comboBox-sehir-ilce\bin\Debug\comboBox-sehir-ilce.exe
+C:\Users\vildan\Desktop\comboBox-sehir-ilce\comboBox-sehir-ilce\bin\Debug\comboBox-sehir-ilce.pdb
+C:\Users\vildan\Desktop\comboBox-sehir-ilce\comboBox-sehir-ilce\obj\x86\Debug\comboBox_sehir_ilce.Form1.resources
+C:\Users\vildan\Desktop\comboBox-sehir-ilce\comboBox-sehir-ilce\obj\x86\Debug\comboBox_sehir_ilce.Properties.Resources.resources
+C:\Users\vildan\Desktop\comboBox-sehir-ilce\comboBox-sehir-ilce\obj\x86\Debug\comboBox-sehir-ilce.csproj.GenerateResource.Cache
+C:\Users\vildan\Desktop\comboBox-sehir-ilce\comboBox-sehir-ilce\obj\x86\Debug\comboBox-sehir-ilce.exe
+C:\Users\vildan\Desktop\comboBox-sehir-ilce\comboBox-sehir-ilce\obj\x86\Debug\comboBox-sehir-ilce.pdb

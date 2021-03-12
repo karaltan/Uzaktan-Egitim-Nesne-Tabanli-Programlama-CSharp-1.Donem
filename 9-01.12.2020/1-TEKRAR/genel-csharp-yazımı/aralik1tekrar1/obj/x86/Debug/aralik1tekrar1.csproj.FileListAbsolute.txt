@@ -1,0 +1,7 @@
+C:\Users\vildan\Desktop\aralik1tekrar1\aralik1tekrar1\bin\Debug\aralik1tekrar1.exe
+C:\Users\vildan\Desktop\aralik1tekrar1\aralik1tekrar1\bin\Debug\aralik1tekrar1.pdb
+C:\Users\vildan\Desktop\aralik1tekrar1\aralik1tekrar1\obj\x86\Debug\aralik1tekrar1.Form1.resources
+C:\Users\vildan\Desktop\aralik1tekrar1\aralik1tekrar1\obj\x86\Debug\aralik1tekrar1.Properties.Resources.resources
+C:\Users\vildan\Desktop\aralik1tekrar1\aralik1tekrar1\obj\x86\Debug\aralik1tekrar1.csproj.GenerateResource.Cache
+C:\Users\vildan\Desktop\aralik1tekrar1\aralik1tekrar1\obj\x86\Debug\aralik1tekrar1.exe
+C:\Users\vildan\Desktop\aralik1tekrar1\aralik1tekrar1\obj\x86\Debug\aralik1tekrar1.pdb
