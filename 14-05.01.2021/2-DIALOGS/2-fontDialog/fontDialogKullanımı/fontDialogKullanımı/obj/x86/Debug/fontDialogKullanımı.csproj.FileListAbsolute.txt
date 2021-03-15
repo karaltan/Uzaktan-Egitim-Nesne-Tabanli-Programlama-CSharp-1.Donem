@@ -1,0 +1,21 @@
+C:\Users\vilda\AppData\Local\Temporary Projects\fontDialogKullanımı\bin\Debug\fontDialogKullanımı.exe
+C:\Users\vilda\AppData\Local\Temporary Projects\fontDialogKullanımı\bin\Debug\fontDialogKullanımı.pdb
+C:\Users\vilda\AppData\Local\Temporary Projects\fontDialogKullanımı\obj\x86\Debug\fontDialogKullanımı.Form1.resources
+C:\Users\vilda\AppData\Local\Temporary Projects\fontDialogKullanımı\obj\x86\Debug\fontDialogKullanımı.Properties.Resources.resources
+C:\Users\vilda\AppData\Local\Temporary Projects\fontDialogKullanımı\obj\x86\Debug\fontDialogKullanımı.csproj.GenerateResource.Cache
+C:\Users\vilda\AppData\Local\Temporary Projects\fontDialogKullanımı\obj\x86\Debug\fontDialogKullanımı.exe
+C:\Users\vilda\AppData\Local\Temporary Projects\fontDialogKullanımı\obj\x86\Debug\fontDialogKullanımı.pdb
+C:\Users\vilda\OneDrive\Desktop\fontDialogKullanımı\fontDialogKullanımı\obj\x86\Debug\fontDialogKullanımı.exe
+C:\Users\vilda\OneDrive\Desktop\fontDialogKullanımı\fontDialogKullanımı\obj\x86\Debug\fontDialogKullanımı.pdb
+C:\Users\vilda\OneDrive\Desktop\fontDialogKullanımı\fontDialogKullanımı\bin\Debug\fontDialogKullanımı.exe
+C:\Users\vilda\OneDrive\Desktop\fontDialogKullanımı\fontDialogKullanımı\bin\Debug\fontDialogKullanımı.pdb
+C:\Users\vilda\OneDrive\Desktop\fontDialogKullanımı\fontDialogKullanımı\obj\x86\Debug\fontDialogKullanımı.Form1.resources
+C:\Users\vilda\OneDrive\Desktop\fontDialogKullanımı\fontDialogKullanımı\obj\x86\Debug\fontDialogKullanımı.Properties.Resources.resources
+C:\Users\vilda\OneDrive\Desktop\fontDialogKullanımı\fontDialogKullanımı\obj\x86\Debug\fontDialogKullanımı.csproj.GenerateResource.Cache
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\14-05.01.2021\2-DIALOGS\2-fontDialog\fontDialogKullanımı\fontDialogKullanımı\obj\x86\Debug\fontDialogKullanımı.exe
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\14-05.01.2021\2-DIALOGS\2-fontDialog\fontDialogKullanımı\fontDialogKullanımı\obj\x86\Debug\fontDialogKullanımı.pdb
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\14-05.01.2021\2-DIALOGS\2-fontDialog\fontDialogKullanımı\fontDialogKullanımı\bin\Debug\fontDialogKullanımı.exe
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\14-05.01.2021\2-DIALOGS\2-fontDialog\fontDialogKullanımı\fontDialogKullanımı\bin\Debug\fontDialogKullanımı.pdb
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\14-05.01.2021\2-DIALOGS\2-fontDialog\fontDialogKullanımı\fontDialogKullanımı\obj\x86\Debug\fontDialogKullanımı.Form1.resources
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\14-05.01.2021\2-DIALOGS\2-fontDialog\fontDialogKullanımı\fontDialogKullanımı\obj\x86\Debug\fontDialogKullanımı.Properties.Resources.resources
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\14-05.01.2021\2-DIALOGS\2-fontDialog\fontDialogKullanımı\fontDialogKullanımı\obj\x86\Debug\fontDialogKullanımı.csproj.GenerateResource.Cache

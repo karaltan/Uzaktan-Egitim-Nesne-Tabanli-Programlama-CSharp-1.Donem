@@ -1,0 +1,7 @@
+C:\Users\vilda\OneDrive\Desktop\yuvarlakPictureBox\yuvarlakPictureBox\bin\Debug\yuvarlakPictureBox.exe
+C:\Users\vilda\OneDrive\Desktop\yuvarlakPictureBox\yuvarlakPictureBox\bin\Debug\yuvarlakPictureBox.pdb
+C:\Users\vilda\OneDrive\Desktop\yuvarlakPictureBox\yuvarlakPictureBox\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\vilda\OneDrive\Desktop\yuvarlakPictureBox\yuvarlakPictureBox\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\vilda\OneDrive\Desktop\yuvarlakPictureBox\yuvarlakPictureBox\obj\x86\Debug\yuvarlakPictureBox.csproj.GenerateResource.Cache
+C:\Users\vilda\OneDrive\Desktop\yuvarlakPictureBox\yuvarlakPictureBox\obj\x86\Debug\yuvarlakPictureBox.exe
+C:\Users\vilda\OneDrive\Desktop\yuvarlakPictureBox\yuvarlakPictureBox\obj\x86\Debug\yuvarlakPictureBox.pdb

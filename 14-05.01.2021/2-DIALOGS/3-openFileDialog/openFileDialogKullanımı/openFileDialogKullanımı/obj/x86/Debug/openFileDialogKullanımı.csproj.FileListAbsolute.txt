@@ -1,0 +1,14 @@
+C:\Users\vilda\OneDrive\Desktop\openFileDialogKullanımı\openFileDialogKullanımı\bin\Debug\openFileDialogKullanımı.exe
+C:\Users\vilda\OneDrive\Desktop\openFileDialogKullanımı\openFileDialogKullanımı\bin\Debug\openFileDialogKullanımı.pdb
+C:\Users\vilda\OneDrive\Desktop\openFileDialogKullanımı\openFileDialogKullanımı\obj\x86\Debug\openFileDialogKullanımı.Form1.resources
+C:\Users\vilda\OneDrive\Desktop\openFileDialogKullanımı\openFileDialogKullanımı\obj\x86\Debug\openFileDialogKullanımı.Properties.Resources.resources
+C:\Users\vilda\OneDrive\Desktop\openFileDialogKullanımı\openFileDialogKullanımı\obj\x86\Debug\openFileDialogKullanımı.csproj.GenerateResource.Cache
+C:\Users\vilda\OneDrive\Desktop\openFileDialogKullanımı\openFileDialogKullanımı\obj\x86\Debug\openFileDialogKullanımı.exe
+C:\Users\vilda\OneDrive\Desktop\openFileDialogKullanımı\openFileDialogKullanımı\obj\x86\Debug\openFileDialogKullanımı.pdb
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\14-05.01.2021\2-DIALOGS\3-openFileDialog\openFileDialogKullanımı\openFileDialogKullanımı\obj\x86\Debug\openFileDialogKullanımı.exe
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\14-05.01.2021\2-DIALOGS\3-openFileDialog\openFileDialogKullanımı\openFileDialogKullanımı\obj\x86\Debug\openFileDialogKullanımı.pdb
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\14-05.01.2021\2-DIALOGS\3-openFileDialog\openFileDialogKullanımı\openFileDialogKullanımı\bin\Debug\openFileDialogKullanımı.exe
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\14-05.01.2021\2-DIALOGS\3-openFileDialog\openFileDialogKullanımı\openFileDialogKullanımı\bin\Debug\openFileDialogKullanımı.pdb
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\14-05.01.2021\2-DIALOGS\3-openFileDialog\openFileDialogKullanımı\openFileDialogKullanımı\obj\x86\Debug\openFileDialogKullanımı.Form1.resources
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\14-05.01.2021\2-DIALOGS\3-openFileDialog\openFileDialogKullanımı\openFileDialogKullanımı\obj\x86\Debug\openFileDialogKullanımı.Properties.Resources.resources
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\14-05.01.2021\2-DIALOGS\3-openFileDialog\openFileDialogKullanımı\openFileDialogKullanımı\obj\x86\Debug\openFileDialogKullanımı.csproj.GenerateResource.Cache

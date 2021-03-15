@@ -1,0 +1,21 @@
+C:\Users\vilda\AppData\Local\Temporary Projects\folderDialogKullanımı\bin\Debug\folderDialogKullanımı.exe
+C:\Users\vilda\AppData\Local\Temporary Projects\folderDialogKullanımı\bin\Debug\folderDialogKullanımı.pdb
+C:\Users\vilda\AppData\Local\Temporary Projects\folderDialogKullanımı\obj\x86\Debug\folderDialogKullanımı.Form1.resources
+C:\Users\vilda\AppData\Local\Temporary Projects\folderDialogKullanımı\obj\x86\Debug\folderDialogKullanımı.Properties.Resources.resources
+C:\Users\vilda\AppData\Local\Temporary Projects\folderDialogKullanımı\obj\x86\Debug\folderDialogKullanımı.csproj.GenerateResource.Cache
+C:\Users\vilda\AppData\Local\Temporary Projects\folderDialogKullanımı\obj\x86\Debug\folderDialogKullanımı.exe
+C:\Users\vilda\AppData\Local\Temporary Projects\folderDialogKullanımı\obj\x86\Debug\folderDialogKullanımı.pdb
+C:\Users\vilda\OneDrive\Desktop\folderDialogKullanımı\folderDialogKullanımı\obj\x86\Debug\folderDialogKullanımı.exe
+C:\Users\vilda\OneDrive\Desktop\folderDialogKullanımı\folderDialogKullanımı\obj\x86\Debug\folderDialogKullanımı.pdb
+C:\Users\vilda\OneDrive\Desktop\folderDialogKullanımı\folderDialogKullanımı\bin\Debug\folderDialogKullanımı.exe
+C:\Users\vilda\OneDrive\Desktop\folderDialogKullanımı\folderDialogKullanımı\bin\Debug\folderDialogKullanımı.pdb
+C:\Users\vilda\OneDrive\Desktop\folderDialogKullanımı\folderDialogKullanımı\obj\x86\Debug\folderDialogKullanımı.Form1.resources
+C:\Users\vilda\OneDrive\Desktop\folderDialogKullanımı\folderDialogKullanımı\obj\x86\Debug\folderDialogKullanımı.Properties.Resources.resources
+C:\Users\vilda\OneDrive\Desktop\folderDialogKullanımı\folderDialogKullanımı\obj\x86\Debug\folderDialogKullanımı.csproj.GenerateResource.Cache
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\14-05.01.2021\2-DIALOGS\0-folderBrowserDialog\folderDialogKullanımı\folderDialogKullanımı\obj\x86\Debug\folderDialogKullanımı.exe
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\14-05.01.2021\2-DIALOGS\0-folderBrowserDialog\folderDialogKullanımı\folderDialogKullanımı\obj\x86\Debug\folderDialogKullanımı.pdb
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\14-05.01.2021\2-DIALOGS\0-folderBrowserDialog\folderDialogKullanımı\folderDialogKullanımı\bin\Debug\folderDialogKullanımı.exe
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\14-05.01.2021\2-DIALOGS\0-folderBrowserDialog\folderDialogKullanımı\folderDialogKullanımı\bin\Debug\folderDialogKullanımı.pdb
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\14-05.01.2021\2-DIALOGS\0-folderBrowserDialog\folderDialogKullanımı\folderDialogKullanımı\obj\x86\Debug\folderDialogKullanımı.Form1.resources
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\14-05.01.2021\2-DIALOGS\0-folderBrowserDialog\folderDialogKullanımı\folderDialogKullanımı\obj\x86\Debug\folderDialogKullanımı.Properties.Resources.resources
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\14-05.01.2021\2-DIALOGS\0-folderBrowserDialog\folderDialogKullanımı\folderDialogKullanımı\obj\x86\Debug\folderDialogKullanımı.csproj.GenerateResource.Cache

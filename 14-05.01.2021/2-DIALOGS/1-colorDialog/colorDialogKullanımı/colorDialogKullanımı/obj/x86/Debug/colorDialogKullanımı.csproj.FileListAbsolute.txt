@@ -1,0 +1,21 @@
+C:\Users\vilda\AppData\Local\Temporary Projects\colorDialogKullanımı\bin\Debug\colorDialogKullanımı.exe
+C:\Users\vilda\AppData\Local\Temporary Projects\colorDialogKullanımı\bin\Debug\colorDialogKullanımı.pdb
+C:\Users\vilda\AppData\Local\Temporary Projects\colorDialogKullanımı\obj\x86\Debug\colorDialogKullanımı.Form1.resources
+C:\Users\vilda\AppData\Local\Temporary Projects\colorDialogKullanımı\obj\x86\Debug\colorDialogKullanımı.Properties.Resources.resources
+C:\Users\vilda\AppData\Local\Temporary Projects\colorDialogKullanımı\obj\x86\Debug\colorDialogKullanımı.csproj.GenerateResource.Cache
+C:\Users\vilda\AppData\Local\Temporary Projects\colorDialogKullanımı\obj\x86\Debug\colorDialogKullanımı.exe
+C:\Users\vilda\AppData\Local\Temporary Projects\colorDialogKullanımı\obj\x86\Debug\colorDialogKullanımı.pdb
+C:\Users\vilda\OneDrive\Desktop\colorDialogKullanımı\colorDialogKullanımı\obj\x86\Debug\colorDialogKullanımı.exe
+C:\Users\vilda\OneDrive\Desktop\colorDialogKullanımı\colorDialogKullanımı\obj\x86\Debug\colorDialogKullanımı.pdb
+C:\Users\vilda\OneDrive\Desktop\colorDialogKullanımı\colorDialogKullanımı\bin\Debug\colorDialogKullanımı.exe
+C:\Users\vilda\OneDrive\Desktop\colorDialogKullanımı\colorDialogKullanımı\bin\Debug\colorDialogKullanımı.pdb
+C:\Users\vilda\OneDrive\Desktop\colorDialogKullanımı\colorDialogKullanımı\obj\x86\Debug\colorDialogKullanımı.Form1.resources
+C:\Users\vilda\OneDrive\Desktop\colorDialogKullanımı\colorDialogKullanımı\obj\x86\Debug\colorDialogKullanımı.Properties.Resources.resources
+C:\Users\vilda\OneDrive\Desktop\colorDialogKullanımı\colorDialogKullanımı\obj\x86\Debug\colorDialogKullanımı.csproj.GenerateResource.Cache
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\14-05.01.2021\2-DIALOGS\1-colorDialog\colorDialogKullanımı\colorDialogKullanımı\obj\x86\Debug\colorDialogKullanımı.exe
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\14-05.01.2021\2-DIALOGS\1-colorDialog\colorDialogKullanımı\colorDialogKullanımı\obj\x86\Debug\colorDialogKullanımı.pdb
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\14-05.01.2021\2-DIALOGS\1-colorDialog\colorDialogKullanımı\colorDialogKullanımı\bin\Debug\colorDialogKullanımı.exe
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\14-05.01.2021\2-DIALOGS\1-colorDialog\colorDialogKullanımı\colorDialogKullanımı\bin\Debug\colorDialogKullanımı.pdb
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\14-05.01.2021\2-DIALOGS\1-colorDialog\colorDialogKullanımı\colorDialogKullanımı\obj\x86\Debug\colorDialogKullanımı.Form1.resources
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\14-05.01.2021\2-DIALOGS\1-colorDialog\colorDialogKullanımı\colorDialogKullanımı\obj\x86\Debug\colorDialogKullanımı.Properties.Resources.resources
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\14-05.01.2021\2-DIALOGS\1-colorDialog\colorDialogKullanımı\colorDialogKullanımı\obj\x86\Debug\colorDialogKullanımı.csproj.GenerateResource.Cache

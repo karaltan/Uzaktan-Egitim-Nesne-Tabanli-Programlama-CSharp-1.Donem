@@ -1,0 +1,7 @@
+C:\Users\vilda\OneDrive\Desktop\folderDialogUygulama\folderDialogUygulama\obj\x86\Debug\folderDialogUygulama.Form1.resources
+C:\Users\vilda\OneDrive\Desktop\folderDialogUygulama\folderDialogUygulama\obj\x86\Debug\folderDialogUygulama.Properties.Resources.resources
+C:\Users\vilda\OneDrive\Desktop\folderDialogUygulama\folderDialogUygulama\obj\x86\Debug\folderDialogUygulama.csproj.GenerateResource.Cache
+C:\Users\vilda\OneDrive\Desktop\folderDialogUygulama\folderDialogUygulama\bin\Debug\folderDialogUygulama.exe
+C:\Users\vilda\OneDrive\Desktop\folderDialogUygulama\folderDialogUygulama\bin\Debug\folderDialogUygulama.pdb
+C:\Users\vilda\OneDrive\Desktop\folderDialogUygulama\folderDialogUygulama\obj\x86\Debug\folderDialogUygulama.exe
+C:\Users\vilda\OneDrive\Desktop\folderDialogUygulama\folderDialogUygulama\obj\x86\Debug\folderDialogUygulama.pdb
