@@ -1,0 +1,10 @@
+C:\Users\vilda\OneDrive\Desktop\degiskenAktarimi-konusu\degiskenAktarimi-konusu\bin\Debug\degiskenAktarimi-konusu.exe
+C:\Users\vilda\OneDrive\Desktop\degiskenAktarimi-konusu\degiskenAktarimi-konusu\bin\Debug\degiskenAktarimi-konusu.pdb
+C:\Users\vilda\OneDrive\Desktop\degiskenAktarimi-konusu\degiskenAktarimi-konusu\obj\x86\Debug\degiskenAktarimi_konusu.Form1.resources
+C:\Users\vilda\OneDrive\Desktop\degiskenAktarimi-konusu\degiskenAktarimi-konusu\obj\x86\Debug\degiskenAktarimi_konusu.Form2.resources
+C:\Users\vilda\OneDrive\Desktop\degiskenAktarimi-konusu\degiskenAktarimi-konusu\obj\x86\Debug\degiskenAktarimi_konusu.Properties.Resources.resources
+C:\Users\vilda\OneDrive\Desktop\degiskenAktarimi-konusu\degiskenAktarimi-konusu\obj\x86\Debug\degiskenAktarimi-konusu.csproj.GenerateResource.Cache
+C:\Users\vilda\OneDrive\Desktop\degiskenAktarimi-konusu\degiskenAktarimi-konusu\obj\x86\Debug\degiskenAktarimi-konusu.exe
+C:\Users\vilda\OneDrive\Desktop\degiskenAktarimi-konusu\degiskenAktarimi-konusu\obj\x86\Debug\degiskenAktarimi-konusu.pdb
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\13-29.12.2020\Formlar Arası Geçiş-Değişken Aktarımı\degiskenAktarimi4-properties ile aktarım\degiskenAktarimi-konusu\obj\x86\Debug\degiskenAktarimi-konusu.exe
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\13-29.12.2020\Formlar Arası Geçiş-Değişken Aktarımı\degiskenAktarimi4-properties ile aktarım\degiskenAktarimi-konusu\obj\x86\Debug\degiskenAktarimi-konusu.pdb

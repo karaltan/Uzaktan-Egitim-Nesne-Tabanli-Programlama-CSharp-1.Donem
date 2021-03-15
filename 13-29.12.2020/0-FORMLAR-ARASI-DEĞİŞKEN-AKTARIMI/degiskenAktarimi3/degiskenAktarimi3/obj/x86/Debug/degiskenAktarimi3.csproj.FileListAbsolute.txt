@@ -1,0 +1,10 @@
+C:\Users\vilda\AppData\Local\Temporary Projects\degiskenAktarimi3\bin\Debug\degiskenAktarimi3.exe
+C:\Users\vilda\AppData\Local\Temporary Projects\degiskenAktarimi3\bin\Debug\degiskenAktarimi3.pdb
+C:\Users\vilda\AppData\Local\Temporary Projects\degiskenAktarimi3\obj\x86\Debug\degiskenAktarimi3.Form1.resources
+C:\Users\vilda\AppData\Local\Temporary Projects\degiskenAktarimi3\obj\x86\Debug\degiskenAktarimi3.Form2.resources
+C:\Users\vilda\AppData\Local\Temporary Projects\degiskenAktarimi3\obj\x86\Debug\degiskenAktarimi3.Properties.Resources.resources
+C:\Users\vilda\AppData\Local\Temporary Projects\degiskenAktarimi3\obj\x86\Debug\degiskenAktarimi3.csproj.GenerateResource.Cache
+C:\Users\vilda\AppData\Local\Temporary Projects\degiskenAktarimi3\obj\x86\Debug\degiskenAktarimi3.exe
+C:\Users\vilda\AppData\Local\Temporary Projects\degiskenAktarimi3\obj\x86\Debug\degiskenAktarimi3.pdb
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\13-29.12.2020\Formlar Arası Geçiş-Değişken Aktarımı\degiskenAktarimi3\degiskenAktarimi3\obj\x86\Debug\degiskenAktarimi3.exe
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\13-29.12.2020\Formlar Arası Geçiş-Değişken Aktarımı\degiskenAktarimi3\degiskenAktarimi3\obj\x86\Debug\degiskenAktarimi3.pdb

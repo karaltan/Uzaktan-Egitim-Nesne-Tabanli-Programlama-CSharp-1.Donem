@@ -1,0 +1,25 @@
+C:\Users\vilda\AppData\Local\Temporary Projects\yonetici-kullanıcı-menu\bin\Debug\yonetici-kullanıcı-menu.exe
+C:\Users\vilda\AppData\Local\Temporary Projects\yonetici-kullanıcı-menu\bin\Debug\yonetici-kullanıcı-menu.pdb
+C:\Users\vilda\AppData\Local\Temporary Projects\yonetici-kullanıcı-menu\obj\x86\Debug\yonetici_kullanıcı_menu.Form1.resources
+C:\Users\vilda\AppData\Local\Temporary Projects\yonetici-kullanıcı-menu\obj\x86\Debug\yonetici_kullanıcı_menu.login.resources
+C:\Users\vilda\AppData\Local\Temporary Projects\yonetici-kullanıcı-menu\obj\x86\Debug\yonetici_kullanıcı_menu.Properties.Resources.resources
+C:\Users\vilda\AppData\Local\Temporary Projects\yonetici-kullanıcı-menu\obj\x86\Debug\yonetici-kullanıcı-menu.csproj.GenerateResource.Cache
+C:\Users\vilda\AppData\Local\Temporary Projects\yonetici-kullanıcı-menu\obj\x86\Debug\yonetici-kullanıcı-menu.exe
+C:\Users\vilda\AppData\Local\Temporary Projects\yonetici-kullanıcı-menu\obj\x86\Debug\yonetici-kullanıcı-menu.pdb
+C:\Users\vilda\OneDrive\Desktop\yonetici-kullanıcı-menu\yonetici-kullanıcı-menu\obj\x86\Debug\yonetici-kullanıcı-menu.exe
+C:\Users\vilda\OneDrive\Desktop\yonetici-kullanıcı-menu\yonetici-kullanıcı-menu\obj\x86\Debug\yonetici-kullanıcı-menu.pdb
+C:\Users\vilda\OneDrive\Desktop\yonetici-kullanıcı-menu\yonetici-kullanıcı-menu\bin\Debug\yonetici-kullanıcı-menu.exe
+C:\Users\vilda\OneDrive\Desktop\yonetici-kullanıcı-menu\yonetici-kullanıcı-menu\bin\Debug\yonetici-kullanıcı-menu.pdb
+C:\Users\vilda\OneDrive\Desktop\yonetici-kullanıcı-menu\yonetici-kullanıcı-menu\obj\x86\Debug\yonetici_kullanıcı_menu.Form1.resources
+C:\Users\vilda\OneDrive\Desktop\yonetici-kullanıcı-menu\yonetici-kullanıcı-menu\obj\x86\Debug\yonetici_kullanıcı_menu.login.resources
+C:\Users\vilda\OneDrive\Desktop\yonetici-kullanıcı-menu\yonetici-kullanıcı-menu\obj\x86\Debug\yonetici_kullanıcı_menu.Properties.Resources.resources
+C:\Users\vilda\OneDrive\Desktop\yonetici-kullanıcı-menu\yonetici-kullanıcı-menu\obj\x86\Debug\yonetici-kullanıcı-menu.csproj.GenerateResource.Cache
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\13-29.12.2020\MENU-yonetici-kullanıcı-ayrımı\yonetici-kullanıcı-menu\obj\x86\Debug\yonetici-kullanıcı-menu.exe
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\13-29.12.2020\MENU-yonetici-kullanıcı-ayrımı\yonetici-kullanıcı-menu\obj\x86\Debug\yonetici-kullanıcı-menu.pdb
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\13-29.12.2020\MENU-yonetici-kullanıcı-ayrımı\yonetici-kullanıcı-menu\bin\Debug\yonetici-kullanıcı-menu.exe
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\13-29.12.2020\MENU-yonetici-kullanıcı-ayrımı\yonetici-kullanıcı-menu\bin\Debug\yonetici-kullanıcı-menu.pdb
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\13-29.12.2020\MENU-yonetici-kullanıcı-ayrımı\yonetici-kullanıcı-menu\obj\x86\Debug\yonetici_kullanıcı_menu.Form1.resources
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\13-29.12.2020\MENU-yonetici-kullanıcı-ayrımı\yonetici-kullanıcı-menu\obj\x86\Debug\yonetici_kullanıcı_menu.login.resources
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\13-29.12.2020\MENU-yonetici-kullanıcı-ayrımı\yonetici-kullanıcı-menu\obj\x86\Debug\yonetici_kullanıcı_menu.Properties.Resources.resources
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\13-29.12.2020\MENU-yonetici-kullanıcı-ayrımı\yonetici-kullanıcı-menu\obj\x86\Debug\yonetici-kullanıcı-menu.csproj.GenerateResource.Cache
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\13-29.12.2020\MENU-yonetici-kullanıcı-ayrımı\yonetici-kullanıcı-menu\obj\x86\Debug\yonetici-kullanıcı-menu.csprojResolveAssemblyReference.cache

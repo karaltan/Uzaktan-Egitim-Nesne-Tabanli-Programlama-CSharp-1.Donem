@@ -1,0 +1,17 @@
+C:\Users\vilda\AppData\Local\Temporary Projects\menu-konusu\bin\Debug\menu-konusu.exe
+C:\Users\vilda\AppData\Local\Temporary Projects\menu-konusu\bin\Debug\menu-konusu.pdb
+C:\Users\vilda\AppData\Local\Temporary Projects\menu-konusu\obj\x86\Debug\menu_konusu.Form1.resources
+C:\Users\vilda\AppData\Local\Temporary Projects\menu-konusu\obj\x86\Debug\menu_konusu.Properties.Resources.resources
+C:\Users\vilda\AppData\Local\Temporary Projects\menu-konusu\obj\x86\Debug\menu-konusu.csproj.GenerateResource.Cache
+C:\Users\vilda\AppData\Local\Temporary Projects\menu-konusu\obj\x86\Debug\menu-konusu.exe
+C:\Users\vilda\AppData\Local\Temporary Projects\menu-konusu\obj\x86\Debug\menu-konusu.pdb
+C:\Users\vilda\OneDrive\Desktop\menu-konusu\menu-konusu\obj\x86\Debug\menu_konusu.Form1.resources
+C:\Users\vilda\OneDrive\Desktop\menu-konusu\menu-konusu\obj\x86\Debug\menu_konusu.Properties.Resources.resources
+C:\Users\vilda\OneDrive\Desktop\menu-konusu\menu-konusu\obj\x86\Debug\menu-konusu.csproj.GenerateResource.Cache
+C:\Users\vilda\OneDrive\Desktop\menu-konusu\menu-konusu\obj\x86\Debug\menu_konusu.hakkinda.resources
+C:\Users\vilda\OneDrive\Desktop\menu-konusu\menu-konusu\bin\Debug\Menü Konusu.exe
+C:\Users\vilda\OneDrive\Desktop\menu-konusu\menu-konusu\bin\Debug\Menü Konusu.pdb
+C:\Users\vilda\OneDrive\Desktop\menu-konusu\menu-konusu\obj\x86\Debug\Menü Konusu.exe
+C:\Users\vilda\OneDrive\Desktop\menu-konusu\menu-konusu\obj\x86\Debug\Menü Konusu.pdb
+C:\Users\vilda\OneDrive\Desktop\menu-konusu\menu-konusu\obj\x86\Debug\menu_konusu.Form2.resources
+C:\Users\vilda\OneDrive\Desktop\menu-konusu\menu-konusu\obj\x86\Debug\menu_konusu.Form3.resources

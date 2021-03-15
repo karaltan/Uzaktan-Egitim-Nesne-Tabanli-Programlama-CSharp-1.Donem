@@ -1,0 +1,24 @@
+E:\NOTLARIM\FLASHDİSKTOSHİBA\Görsel_Programlama\CSharp_Ornekler\ornek\formlar_ve_kontroller\contextmenustrip_kontrolu\bin\Debug\contextmenustrip_kontrolu.exe
+E:\NOTLARIM\FLASHDİSKTOSHİBA\Görsel_Programlama\CSharp_Ornekler\ornek\formlar_ve_kontroller\contextmenustrip_kontrolu\bin\Debug\contextmenustrip_kontrolu.pdb
+E:\NOTLARIM\FLASHDİSKTOSHİBA\Görsel_Programlama\CSharp_Ornekler\ornek\formlar_ve_kontroller\contextmenustrip_kontrolu\obj\x86\Debug\contextmenustrip_kontrolu.csprojResolveAssemblyReference.cache
+E:\NOTLARIM\FLASHDİSKTOSHİBA\Görsel_Programlama\CSharp_Ornekler\ornek\formlar_ve_kontroller\contextmenustrip_kontrolu\obj\x86\Debug\contextmenustrip_kontrolu.Form1.resources
+E:\NOTLARIM\FLASHDİSKTOSHİBA\Görsel_Programlama\CSharp_Ornekler\ornek\formlar_ve_kontroller\contextmenustrip_kontrolu\obj\x86\Debug\contextmenustrip_kontrolu.Properties.Resources.resources
+E:\NOTLARIM\FLASHDİSKTOSHİBA\Görsel_Programlama\CSharp_Ornekler\ornek\formlar_ve_kontroller\contextmenustrip_kontrolu\obj\x86\Debug\contextmenustrip_kontrolu.csproj.GenerateResource.Cache
+E:\NOTLARIM\FLASHDİSKTOSHİBA\Görsel_Programlama\CSharp_Ornekler\ornek\formlar_ve_kontroller\contextmenustrip_kontrolu\obj\x86\Debug\contextmenustrip_kontrolu.exe
+E:\NOTLARIM\FLASHDİSKTOSHİBA\Görsel_Programlama\CSharp_Ornekler\ornek\formlar_ve_kontroller\contextmenustrip_kontrolu\obj\x86\Debug\contextmenustrip_kontrolu.pdb
+C:\Users\vilda\OneDrive\Desktop\contextmenustrip_kontrolu\obj\x86\Debug\contextmenustrip_kontrolu.exe
+C:\Users\vilda\OneDrive\Desktop\contextmenustrip_kontrolu\obj\x86\Debug\contextmenustrip_kontrolu.pdb
+C:\Users\vilda\OneDrive\Desktop\contextmenustrip_kontrolu\bin\Debug\contextmenustrip_kontrolu.exe
+C:\Users\vilda\OneDrive\Desktop\contextmenustrip_kontrolu\bin\Debug\contextmenustrip_kontrolu.pdb
+C:\Users\vilda\OneDrive\Desktop\contextmenustrip_kontrolu\obj\x86\Debug\contextmenustrip_kontrolu.csprojResolveAssemblyReference.cache
+C:\Users\vilda\OneDrive\Desktop\contextmenustrip_kontrolu\obj\x86\Debug\contextmenustrip_kontrolu.Form1.resources
+C:\Users\vilda\OneDrive\Desktop\contextmenustrip_kontrolu\obj\x86\Debug\contextmenustrip_kontrolu.Properties.Resources.resources
+C:\Users\vilda\OneDrive\Desktop\contextmenustrip_kontrolu\obj\x86\Debug\contextmenustrip_kontrolu.csproj.GenerateResource.Cache
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\13-29.12.2020\MENUS&TOOLBARS\1-CONTEXTMENUSTRIP-KONUSU\Menü-ve-Contextmenustrip_kontrolu\obj\x86\Debug\contextmenustrip_kontrolu.exe
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\13-29.12.2020\MENUS&TOOLBARS\1-CONTEXTMENUSTRIP-KONUSU\Menü-ve-Contextmenustrip_kontrolu\obj\x86\Debug\contextmenustrip_kontrolu.pdb
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\13-29.12.2020\MENUS&TOOLBARS\1-CONTEXTMENUSTRIP-KONUSU\Menü-ve-Contextmenustrip_kontrolu\bin\Debug\contextmenustrip_kontrolu.exe
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\13-29.12.2020\MENUS&TOOLBARS\1-CONTEXTMENUSTRIP-KONUSU\Menü-ve-Contextmenustrip_kontrolu\bin\Debug\contextmenustrip_kontrolu.pdb
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\13-29.12.2020\MENUS&TOOLBARS\1-CONTEXTMENUSTRIP-KONUSU\Menü-ve-Contextmenustrip_kontrolu\obj\x86\Debug\contextmenustrip_kontrolu.csprojResolveAssemblyReference.cache
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\13-29.12.2020\MENUS&TOOLBARS\1-CONTEXTMENUSTRIP-KONUSU\Menü-ve-Contextmenustrip_kontrolu\obj\x86\Debug\contextmenustrip_kontrolu.Form1.resources
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\13-29.12.2020\MENUS&TOOLBARS\1-CONTEXTMENUSTRIP-KONUSU\Menü-ve-Contextmenustrip_kontrolu\obj\x86\Debug\contextmenustrip_kontrolu.Properties.Resources.resources
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\13-29.12.2020\MENUS&TOOLBARS\1-CONTEXTMENUSTRIP-KONUSU\Menü-ve-Contextmenustrip_kontrolu\obj\x86\Debug\contextmenustrip_kontrolu.csproj.GenerateResource.Cache

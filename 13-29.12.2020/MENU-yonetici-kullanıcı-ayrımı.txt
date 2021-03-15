@@ -1,0 +1,7 @@
+2 form olacak
+1.formda login ekranı
+2.formda menü ekranı 
+
+kullanıcı doğru login olursa;
+- yönetici(admin) olarak login olduysa menü ekranında tüm menüleri kullanabilsin
+- kullanıcı(user) olarak login olduysa menü ekranında tüm menüleri kullanamasın

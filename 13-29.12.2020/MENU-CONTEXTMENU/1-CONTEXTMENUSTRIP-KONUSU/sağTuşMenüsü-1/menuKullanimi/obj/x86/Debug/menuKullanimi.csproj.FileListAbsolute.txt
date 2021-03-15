@@ -1,0 +1,23 @@
+C:\Users\vilda\AppData\Local\Temporary Projects\menuKullanimi\bin\Debug\menuKullanimi.exe
+C:\Users\vilda\AppData\Local\Temporary Projects\menuKullanimi\bin\Debug\menuKullanimi.pdb
+C:\Users\vilda\AppData\Local\Temporary Projects\menuKullanimi\obj\x86\Debug\menuKullanimi.Form1.resources
+C:\Users\vilda\AppData\Local\Temporary Projects\menuKullanimi\obj\x86\Debug\menuKullanimi.Properties.Resources.resources
+C:\Users\vilda\AppData\Local\Temporary Projects\menuKullanimi\obj\x86\Debug\menuKullanimi.csproj.GenerateResource.Cache
+C:\Users\vilda\AppData\Local\Temporary Projects\menuKullanimi\obj\x86\Debug\menuKullanimi.exe
+C:\Users\vilda\AppData\Local\Temporary Projects\menuKullanimi\obj\x86\Debug\menuKullanimi.pdb
+C:\Users\vilda\OneDrive\Desktop\menuKullanimi\menuKullanimi\obj\x86\Debug\menuKullanimi.exe
+C:\Users\vilda\OneDrive\Desktop\menuKullanimi\menuKullanimi\obj\x86\Debug\menuKullanimi.pdb
+C:\Users\vilda\OneDrive\Desktop\menuKullanimi\menuKullanimi\bin\Debug\menuKullanimi.exe
+C:\Users\vilda\OneDrive\Desktop\menuKullanimi\menuKullanimi\bin\Debug\menuKullanimi.pdb
+C:\Users\vilda\OneDrive\Desktop\menuKullanimi\menuKullanimi\obj\x86\Debug\menuKullanimi.Form1.resources
+C:\Users\vilda\OneDrive\Desktop\menuKullanimi\menuKullanimi\obj\x86\Debug\menuKullanimi.Properties.Resources.resources
+C:\Users\vilda\OneDrive\Desktop\menuKullanimi\menuKullanimi\obj\x86\Debug\menuKullanimi.csproj.GenerateResource.Cache
+C:\Users\vilda\OneDrive\Desktop\menuKullanimi-1\menuKullanimi\obj\x86\Debug\menuKullanimi.exe
+C:\Users\vilda\OneDrive\Desktop\menuKullanimi-1\menuKullanimi\obj\x86\Debug\menuKullanimi.pdb
+C:\Users\vilda\OneDrive\Desktop\menuKullanimi-1\menuKullanimi\bin\Debug\menuKullanimi.exe
+C:\Users\vilda\OneDrive\Desktop\menuKullanimi-1\menuKullanimi\bin\Debug\menuKullanimi.pdb
+C:\Users\vilda\OneDrive\Desktop\menuKullanimi-1\menuKullanimi\obj\x86\Debug\menuKullanimi.Form1.resources
+C:\Users\vilda\OneDrive\Desktop\menuKullanimi-1\menuKullanimi\obj\x86\Debug\menuKullanimi.Properties.Resources.resources
+C:\Users\vilda\OneDrive\Desktop\menuKullanimi-1\menuKullanimi\obj\x86\Debug\menuKullanimi.csproj.GenerateResource.Cache
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\13-29.12.2020\MENUS&TOOLBARS\1-CONTEXTMENUSTRIP-KONUSU\sağTuşMenüsü Kullanımı-1\menuKullanimi\obj\x86\Debug\menuKullanimi.exe
+C:\Users\vilda\OneDrive\Desktop\12A NTP UZAKTAN EĞİTİM\13-29.12.2020\MENUS&TOOLBARS\1-CONTEXTMENUSTRIP-KONUSU\sağTuşMenüsü Kullanımı-1\menuKullanimi\obj\x86\Debug\menuKullanimi.pdb
